@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Names: Leana Nakkour and Deelyn Cheng
+# Names: Leana N and DC
 # CSE 160, Section AC
 # HW 7 Part 2
 
